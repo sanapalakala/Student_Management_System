@@ -1,0 +1,4 @@
+node_modules/
+build/
+.sms-frontend/node_modules/
+.sms-frontend/build/
