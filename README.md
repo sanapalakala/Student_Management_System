@@ -47,7 +47,7 @@ A full-stack Student Management System built using Java for backend logic and Re
 studentmanagementsystem/
 ├── src/ (Java Backend)
 └── sms-frontend/ (React Frontend)
-
+```
 ---
 ##  Future Improvements
 - Connect React frontend with backend using REST APIs
